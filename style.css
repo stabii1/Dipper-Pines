@@ -15,7 +15,6 @@ main {
   box-sizing: border-box;
   height: 500px;
   width: 500px;
-  padding: 10px;
   margin: auto;
   border-radius: 20px;
   text-align: center;
@@ -24,6 +23,10 @@ main {
 img {
   width: 100%;
   height: auto;
+}
+
+img ~ main {
+  padding: 10px
 }
 
 h1 {
