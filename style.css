@@ -11,8 +11,10 @@ color: #110B11
 }
 
 main {
+  box-sizing: border-box;
   height: 800px;
   width: 500px;
+  margin: 10px;
   justify-content: center;
   align-items: center;
 }  
@@ -31,4 +33,5 @@ letter-spacing: 5px;
   text-transform: lowercase;
   font-style: italic;
   font-size: 0.75;
+  opacity: 0.75;
 }
