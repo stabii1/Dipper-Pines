@@ -2,3 +2,8 @@
   margin: 0;
   padding: 0;
 }
+
+.author {
+font-style: italic;
+font-size: 10px;
+}
