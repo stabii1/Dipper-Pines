@@ -15,6 +15,7 @@ main {
   box-sizing: border-box;
   height: 500px;
   width: 500px;
+  padding: 10px;
   margin: auto;
   border-radius: 20px;
   text-align: center;
@@ -30,12 +31,8 @@ h1 {
   letter-spacing: 5px;
   color: #6F8F72;
   margin: auto;
-  padding: 10px;
+  padding: 20px 10px 10px 10px;
 }
-
-p {
-  margin: auto;
-  padding: 20px;
 
 .author {
   text-transform: lowercase;
