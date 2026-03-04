@@ -4,13 +4,14 @@
 }
 
 html {
-background-color: #8CADA7;
-font-family: georgia, serif;
-font-size: 16px;
-color: #110B11
+  background-color: #8CADA7;
+  font-family: georgia, serif;
+  font-size: 16px;
+  color: #582B11;
 }
 
 main {
+  background-color: #F5ECCD;
   box-sizing: border-box;
   height: 800px;
   width: 500px;
@@ -27,6 +28,7 @@ img {
 h1 {
 text-transform: uppercase;
 letter-spacing: 5px;
+color: #AAAE8E;
 }
 
 .author {
