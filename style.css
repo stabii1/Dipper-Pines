@@ -25,10 +25,16 @@ img {
 }
 
 h1 {
-text-transform: uppercase;
-letter-spacing: 5px;
-color: #6F8F72;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #6F8F72;
+  margin: auto;
+  padding: 10px;
 }
+
+p {
+  margin: auto;
+  padding: 20px;
 
 .author {
   text-transform: lowercase;
