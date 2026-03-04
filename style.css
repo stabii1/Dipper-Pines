@@ -17,6 +17,7 @@ main {
   width: 500px;
   margin: auto;
   border-radius: 20px
+  text-align: center;
 }  
 
 img {
