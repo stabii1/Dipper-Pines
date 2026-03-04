@@ -5,7 +5,9 @@
 
 html {
 background-color: #8CADA7;
-font-family: times-new-roman, Times, serif;
+font-family: georgia, serif;
+font-size: 16px;
+color: #110B11
 }
 
 h1 {
@@ -15,5 +17,5 @@ letter-spacing: 5px;
 
 .author {
 font-style: italic;
-font-size: 10px;
+font-size: 0.75;
 }
