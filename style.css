@@ -3,6 +3,16 @@
   padding: 0;
 }
 
+html {
+background-color: #8CADA7;
+font-family: times-new-roman, Times, serif;
+}
+
+h1 {
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+
 .author {
 font-style: italic;
 font-size: 10px;
