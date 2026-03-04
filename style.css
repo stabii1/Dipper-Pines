@@ -13,7 +13,9 @@ color: #110B11
 main {
   height: 500px;
   width: 500px;
-  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }  
 
   
