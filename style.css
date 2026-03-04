@@ -13,12 +13,10 @@ color: #110B11
 main {
   height: 500px;
   width: 500px;
-  display: flex;
   justify-content: center;
   align-items: center;
 }  
 
-  
 img {
   width: 100%;
   height: auto;
