@@ -32,7 +32,7 @@ img ~ main {
 h1 {
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #6F8F72;
+  color: #DDAE7E;
   margin: auto;
   padding: 20px 10px 10px 10px;
 }
@@ -40,6 +40,7 @@ h1 {
 .author {
   text-transform: lowercase;
   font-style: italic;
+  padding: 20px
   font-size: 0.75;
   opacity: 0.75;
 }
