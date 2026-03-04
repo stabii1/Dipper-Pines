@@ -13,11 +13,9 @@ html {
 main {
   background-color: #F5ECCD;
   box-sizing: border-box;
-  height: 800px;
+  height: 500px;
   width: 500px;
-  margin: 10px;
-  justify-content: center;
-  align-items: center;
+  margin: 10px auto;
 }  
 
 img {
@@ -28,7 +26,7 @@ img {
 h1 {
 text-transform: uppercase;
 letter-spacing: 5px;
-color: #AAAE8E;
+color: #6F8F72;
 }
 
 .author {
