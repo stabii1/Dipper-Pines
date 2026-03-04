@@ -13,7 +13,7 @@ html {
 main {
   background-color: #F5ECCD;
   box-sizing: border-box;
-  height: 500px;
+  height: 300px;
   width: 500px;
   margin: 200px auto auto auto;
   border-radius: 20px;
@@ -40,7 +40,7 @@ h1 {
 .author {
   text-transform: lowercase;
   font-style: italic;
-  padding: 50px
+  padding: 10px 10px 20px 10px;
   font-size: 0.75;
   opacity: 0.75;
   padding: 50px
