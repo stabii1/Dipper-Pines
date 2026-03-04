@@ -15,7 +15,8 @@ main {
   box-sizing: border-box;
   height: 500px;
   width: 500px;
-  margin: 10px auto;
+  margin: auto;
+  border-radius: 20px
 }  
 
 img {
